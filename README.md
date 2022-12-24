@@ -5,5 +5,5 @@ https://webclimaapp.netlify.app/
 </p>
 
 # 1.-Home
-<img src="https://github.com/elagosq/climaapp/blob/master/reactappclima.png" width="600" height="600" />
+<img src="https://github.com/elagosq/climaapp/blob/master/reactappclima.png" width="800" height="800" />
 
